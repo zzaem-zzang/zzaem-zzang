@@ -57,6 +57,7 @@
 ## 📚 Certifications
 
 - 정보처리기사
+- 빅데이터분석기사 
 - ADSP (데이터 분석 준전문가)
 - SQLD (SQL 개발자)
 
