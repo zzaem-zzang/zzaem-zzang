@@ -52,6 +52,12 @@
 - **기술 스택**: Python, Pandas, Scikit-learn, XGBoost, LightGBM, Optuna, RandomForest, CatBoost
 - **성과**: 모델 성능을 반복 개선하여 **리더보드 기준 상위 8% 달성**
 
+### Closetory – AI 기반 디지털 옷장 플랫폼
+- **소개**: 사용자의 옷장을 디지털화하고 AI 코디 추천 및 가상 피팅을 제공하는 스마트 패션 관리 서비스
+- **역할**: 백엔드 설계 및 구현, JWT 기반 인증/인가 구축, 핵심 도메인 모델링
+- **기술 스택**: Spring Boot, Java, JPA, MySql, Redis, JWT, AWS S3, Swagger
+- **성과**: AI 추천·통계 분석 기능 구현 및 확장 가능한 인증 구조 설계
+
 ---
 
 ## 📚 Certifications
