@@ -1,8 +1,4 @@
 <div>
-  
-  <!--Header-->
- 
-  
 
 ## 👨‍💻 About Me
 
@@ -14,8 +10,6 @@
 ---
 
 ## 🧱 Tech Stack
-
-## Tech Stack
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -69,14 +63,8 @@
 ## 📚 Certifications
 
 - 정보처리기사
-- 빅데이터분석기사 
+- 빅데이터분석기사
 - ADSP (데이터 분석 준전문가)
 - SQLD (SQL 개발자)
 
----
-
-## 📫 Contact
-
-- 📧 이메일: your.email@example.com  
-- 📝 블로그: [https://yourblog.com](https://yourblog.com)  
-- 💻 GitHub: [https://github.com/yourgithubid](https://github.com/yourgithubid)
+</div>
